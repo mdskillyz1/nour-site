@@ -1,0 +1,6 @@
+{
+  "name": "nour-site",
+  "dependencies": {
+    "resend": "^3.0.0"
+  }
+}
